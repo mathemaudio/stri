@@ -1,3 +1,16 @@
+<!---
+To create this package, I read this cool article: https://itnext.io/step-by-step-building-and-publishing-an-npm-typescript-package-44fe7164964c
+
+In a nutshell, to publish:
+
+* increase the version in package.json
+* `npm test`
+* `npm publish` - this will also run the `npm prepare` before publishing
+
+If it requests login, do `npm login` and try again
+
+-->
+
 Here goes yet another string manipulation package.
 
 # Another one!?
