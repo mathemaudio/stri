@@ -1,3 +1,5 @@
+stri / [Exports](modules.md)
+
 <!---
 To create this package, I read this cool article: https://itnext.io/step-by-step-building-and-publishing-an-npm-typescript-package-44fe7164964c
 
@@ -66,7 +68,6 @@ After that all methods will be available as `String` members.
 - [includeMe](index.stri.md#includeme)
 - [oust](index.stri.md#oust)
 - [swap](index.stri.md#swap)
-
 
 ## Methods
 
